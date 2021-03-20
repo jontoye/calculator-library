@@ -5,7 +5,7 @@ jobs:
     docker:
       - image: circleci/python:3.7
 
-    working_directory: ~/Documents/Python\ Projects/calculator-library
+    working_directory: ~/Documents/Python Projects/calculator-library
 
     steps:
       # Step 1: obtain repo from GitHub
